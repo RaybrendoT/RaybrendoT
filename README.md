@@ -18,8 +18,7 @@
 - 📧 Contact me: raybrendo@hotmail.com
 </td>
     <td align="right">
-### 🎶 O que ando ouvindo no Spotify
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=312tqtzznmyodgik5kamxusdmy5i&unique=1&count=5" width="400px"/>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=312tqtzznmyodgik5kamxusdmy5i&unique=1&count=5" width="400px"/>
     </td>
   </tr>
 </table>
